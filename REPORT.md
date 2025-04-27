@@ -43,13 +43,13 @@
 ![изображение](https://github.com/user-attachments/assets/da0c00fd-14ef-4406-9398-f73528f91cee)
 
 ### Создаем статическую библиотеку formatter_ex
-![изображение](https://github.com/user-attachments/assets/99dc9c19-cbb1-49e1-8b33-3d24f234847b)
+![изображение](https://github.com/user-attachments/assets/77375774-94ea-49be-971a-3c4e9646a495)
 
 ### Подключаем путь к formatter.h от библиотеки formatter
-![изображение](https://github.com/user-attachments/assets/80cdf035-84ab-4f28-917a-e8930a525487)
+![изображение](https://github.com/user-attachments/assets/b9653287-b859-4cfb-a385-48082691f268)
 
 ### Подключаем библиотеку formatter
-![изображение](https://github.com/user-attachments/assets/36bab1ae-affe-4eb3-80de-f5fe16544fc3)
+![изображение](https://github.com/user-attachments/assets/fc2d6fe8-4150-45f1-9fb1-2f7f16f97e07)
 
 ### Создание build директории
 ![изображение](https://github.com/user-attachments/assets/434a93a7-7fb2-4d05-ba70-46ea8248df43)
