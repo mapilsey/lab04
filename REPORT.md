@@ -32,9 +32,37 @@
 
 ![изображение](https://github.com/user-attachments/assets/b5608533-e63d-4adc-9f2f-9c05527b30bd)
 
-Статическая библтотека libformatter.a создана
+Статическая библиотека libformatter.a создана
 
 # Задание 2
 ## У компании "Formatter Inc." есть перспективная библиотека, которая является расширением предыдущей библиотеки. Т.к. вы уже овладели навыком созданием CMakeList.txt для статической библиотеки formatter, ваш руководитель поручает заняться созданием CMakeList.txt для библиотеки formatter_ex, которая в свою очередь использует библиотеку formatter.
+### Настройка имени проекта
+![изображение](https://github.com/user-attachments/assets/485aca4e-45a9-4f2f-9143-e7dfb71fe95b)
+
+### Настройка стандарта C++
+![изображение](https://github.com/user-attachments/assets/da0c00fd-14ef-4406-9398-f73528f91cee)
+
+### Создаем статическую библиотеку formatter_ex
+![изображение](https://github.com/user-attachments/assets/99dc9c19-cbb1-49e1-8b33-3d24f234847b)
+
+### Подключаем путь к formatter.h от библиотеки formatter
+![изображение](https://github.com/user-attachments/assets/80cdf035-84ab-4f28-917a-e8930a525487)
+
+### Подключаем библиотеку formatter
+![изображение](https://github.com/user-attachments/assets/36bab1ae-affe-4eb3-80de-f5fe16544fc3)
+
+### Создание build директории
+![изображение](https://github.com/user-attachments/assets/434a93a7-7fb2-4d05-ba70-46ea8248df43)
+
+### Генерирация проекта
+![изображение](https://github.com/user-attachments/assets/fa6847b2-cc08-478a-8f73-94d276b92fb1)
+
+### Сборка библиотеки
+![изображение](https://github.com/user-attachments/assets/d4fd9b04-abfa-49fd-a333-92b7017d8b83)
+
+![изображение](https://github.com/user-attachments/assets/c0135612-d9b0-4245-bd26-5064c0f1ff81)
+
+Статическая библиотека libformatter_ex.a создана
+
 
 
