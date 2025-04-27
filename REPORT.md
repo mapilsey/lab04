@@ -19,6 +19,9 @@
 ### Создаем статическую библиотеку formatter
 ![изображение](https://github.com/user-attachments/assets/d1ef9b69-d4eb-49d7-b3c1-81718695762a)
 
+### CMakeLists.txt
+![изображение](https://github.com/user-attachments/assets/e2a85096-c786-4573-8b39-0ca30da1721b)
+
 ### Создание build директории
 ![изображение](https://github.com/user-attachments/assets/555d4f41-b246-40bc-b677-c1d163ef0d14)
 
@@ -50,6 +53,9 @@
 
 ### Подключаем библиотеку formatter
 ![изображение](https://github.com/user-attachments/assets/fc2d6fe8-4150-45f1-9fb1-2f7f16f97e07)
+
+### CMakeLists.txt
+![изображение](https://github.com/user-attachments/assets/15461198-b60b-44af-b144-9358853c7f8f)
 
 ### Создание build директории
 ![изображение](https://github.com/user-attachments/assets/434a93a7-7fb2-4d05-ba70-46ea8248df43)
