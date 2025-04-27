@@ -73,7 +73,22 @@
 # Задание 3
 ## Cоздать CMakeList.txt для приложения hello_world, которое использует статическую библиотеку formatter_ex
 ### CMakeLists.txt
+![изображение](https://github.com/user-attachments/assets/4bd61e26-a19b-4907-a7fe-fcf0c964bace)
+
+![изображение](https://github.com/user-attachments/assets/325c55b8-33ef-4ec0-8ac4-d898192c1655)
 
 ## Cоздать CMakeList.txt для приложения solver, которое испольует статические библиотеки formatter_ex и solver_lib
-### CMakeLists.txt
+### CMakeLists.txt для solver_lib
+![изображение](https://github.com/user-attachments/assets/2cf38375-f263-4c49-9e54-1d45458dd484)
+
+![изображение](https://github.com/user-attachments/assets/044c6cda-e512-4347-a6b3-e771bfb8834e)
+
+### CMakeLists.txt для solver
+![изображение](https://github.com/user-attachments/assets/1aad3b3a-0a5a-4e55-8601-232409183685)
+
+![изображение](https://github.com/user-attachments/assets/0e758f73-1c36-409c-aaaf-ec9dfbf28b16)
+
+![изображение](https://github.com/user-attachments/assets/9d581d4d-60a8-46fb-a78e-54fa2dddaac8)
+
+![изображение](https://github.com/user-attachments/assets/136faa54-70d8-4d3c-b58c-85f604f86f94)
 
