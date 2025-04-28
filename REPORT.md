@@ -71,6 +71,9 @@
 
 ![изображение](https://github.com/user-attachments/assets/c0135612-d9b0-4245-bd26-5064c0f1ff81)
 
+### Проверка
+![изображение](https://github.com/user-attachments/assets/4b02a57e-8bf1-4afb-8da2-049aaba47347)
+
 Статическая библиотека libformatter_ex.a создана
 
 # Задание 3
