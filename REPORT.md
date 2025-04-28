@@ -35,6 +35,9 @@
 
 ![изображение](https://github.com/user-attachments/assets/b5608533-e63d-4adc-9f2f-9c05527b30bd)
 
+### Проверка
+![изображение](https://github.com/user-attachments/assets/e22dd65e-cb55-468c-8040-0527f1f3689f)
+
 Статическая библиотека libformatter.a создана
 
 # Задание 2
