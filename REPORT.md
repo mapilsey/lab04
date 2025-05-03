@@ -13,3 +13,8 @@
 # Включение интеграции сервиса Travis CI с созданным репозиторием lab04
 ![изображение](https://github.com/user-attachments/assets/1f620a95-2553-4e68-a1f0-492f32884c0f)
 
+# Авторизация
+![изображение](https://github.com/user-attachments/assets/2262fcb4-f1f0-4b36-b2b6-0d65d5108b06)
+
+# Получение токена с правами repo и user (по умолчанию)
+![изображение](https://github.com/user-attachments/assets/0c940d9f-bb9a-454d-a999-ae1749c8b296)
