@@ -19,4 +19,3 @@
 
 # Получение токена с правами repo и user (по умолчанию)
 ![изображение](https://github.com/user-attachments/assets/0c940d9f-bb9a-454d-a999-ae1749c8b296)
->>>>>>> b5798524cb433d615f2b6412f11411b4e7088094
