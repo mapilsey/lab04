@@ -54,3 +54,50 @@ $ travis branches # Показывает последнюю информацию
 $ travis history # Выводит историю сборки проектов
 $ travis show # Отображает общую информацию о последней сборке
 ```
+
+## Homework
+
+
+CMakeLists.txt для всего билда:
+
+```sh
+cmake_minimum_required(VERSION 3.4)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/hello_world_application)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/solver_application)
+```
+
+текст файла .travis.yml:
+
+```sh
+language: cpp 			                        # язык программы
+os:						        # операционная система
+    - Linux
+addons:					                # подключаем дополнения к проекту
+    apt:
+        - cmake
+        - cmake-data
+compiler:				                # используемые компиляторы
+    - clang
+    - gcc
+script:					                # скрипт проекта
+    - cmake -H. -Bbuild -DCMAKE_INSTALL_PREFIX=install
+    - cmake --build build/
+    - cmake --build build/ --target install
+```
+
+
+Текст файла .appveyor.yml:
+```sh
+image: Visual Studio 2022                               # на чем запускаем
+
+build_script:                                           # скрипт самого билда
+    - cmake -H. -Bbuild -DCMAKE_INSTALL_PREFIX=install
+    - cmake --build build
+    - cmake --build build --target install
+```
+
+Travis показывал ошибку, что sqrtf() в пространстве имён std не было данной функции. Чтобы исправить эту ошибку, пришлось в коде заменить std::sqrtf() на sqrtf() и добавить #include <cmath>.
